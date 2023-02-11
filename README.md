@@ -1,4 +1,4 @@
-# neural-style-transfer-demo
+# neural-style-transfer-demo :cat::art::framed_picture:
 Based on a [tutorial](https://www.tensorflow.org/tutorials/generative/style_transfer) from TensorFlow.
 
 TODO:
